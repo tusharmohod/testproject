@@ -1,1 +1,2 @@
 These are some new features which are part of the project.
+Project got evolved and few more features were added to this file.
